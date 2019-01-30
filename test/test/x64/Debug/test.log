@@ -1,0 +1,24 @@
+﻿  main.cpp
+D:\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\opencv\build\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+main.cpp(69): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+main.cpp(95): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+main.cpp(96): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+main.cpp(139): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+main.cpp(140): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+main.cpp(143): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+main.cpp(144): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+main.cpp(147): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+          main.cpp(141) : definition of 'i' ignored
+          main.cpp(131) : definition of 'i' used
+main.cpp(148): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+          main.cpp(141) : definition of 'i' ignored
+          main.cpp(131) : definition of 'i' used
+main.cpp(149): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+          main.cpp(141) : definition of 'i' ignored
+          main.cpp(131) : definition of 'i' used
+main.cpp(295): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+main.cpp(296): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+main.cpp(297): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+  test.vcxproj -> D:\VS_PRO\test\x64\Debug\test.exe

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<intrinsic_matrix type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    3.7932261647065866e+002 0. 6.6177514965901946e+002 0.
+    3.7937457944612078e+002 3.4067445137922419e+002 0. 0. 1.</data></intrinsic_matrix>
+<distortion_coeffs type_id="opencv-matrix">
+  <rows>1</rows>
+  <cols>5</cols>
+  <dt>d</dt>
+  <data>
+    -1.5749427557787996e-001 3.0324803770424551e-002
+    -3.2247896270106995e-003 1.8579269308797227e-004
+    -3.0921212459862966e-003</data></distortion_coeffs>
+</opencv_storage>

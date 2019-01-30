@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/my_opencv_code/GPU_Undistorted_Birdseye_Video/main.cpp
+opencv2/opencv.hpp
+-
+opencv2/gpu/gpu.hpp
+-
+iostream
+-
+fstream
+-
+ctime
+-
+

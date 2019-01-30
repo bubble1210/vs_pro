@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( UndistortedBirdseyeVideo )
+find_package( OpenCV REQUIRED )
+add_executable ( UndistortedBirdseyeVideo main.cpp )
+target_link_libraries( UndistortedBirdseyeVideo ${OpenCV_LIBS} )

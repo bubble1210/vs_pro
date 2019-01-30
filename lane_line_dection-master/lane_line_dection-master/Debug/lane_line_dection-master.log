@@ -1,0 +1,18 @@
+﻿Build started 2018/11/21 21:24:27.
+     1>Project "E:\VS_PRO\lane_line_dection-master\lane_line_dection-master\lane_line_dection-master.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>e:\vs_pro\lane_line_dection-master\lane_line_dection-master\main.cpp(72): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\vs_pro\lane_line_dection-master\lane_line_dection-master\main.cpp(73): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\vs_pro\lane_line_dection-master\lane_line_dection-master\main.cpp(74): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\vs_pro\lane_line_dection-master\lane_line_dection-master\main.cpp(75): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\vs_pro\lane_line_dection-master\lane_line_dection-master\main.cpp(84): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\vs_pro\lane_line_dection-master\lane_line_dection-master\main.cpp(244): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>e:\vs_pro\lane_line_dection-master\lane_line_dection-master\main.cpp(252): error C2664: 'void cv::line(cv::Mat &,cv::Point,cv::Point,const cv::Scalar &,int,int,int)' : cannot convert argument 1 from 'const cv::_OutputArray' to 'cv::Mat &'
+     1>e:\vs_pro\lane_line_dection-master\lane_line_dection-master\main.cpp(253): error C2664: 'void cv::line(cv::Mat &,cv::Point,cv::Point,const cv::Scalar &,int,int,int)' : cannot convert argument 1 from 'const cv::_OutputArray' to 'cv::Mat &'
+     1>Done Building Project "E:\VS_PRO\lane_line_dection-master\lane_line_dection-master\lane_line_dection-master.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.53
